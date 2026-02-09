@@ -1,4 +1,4 @@
-# 🧠 Thinked
+#Thinked
 
 <div align="center">
 
@@ -7,8 +7,8 @@
 ### *Pensado para você*
 
 [![Website](https://img.shields.io/badge/Website-thinked.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thinked.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thinked-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/thinked)
-[![Instagram](https://img.shields.io/badge/Instagram-@thinked-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thinked)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thinked-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/thinkedforyou)
+[![Instagram](https://img.shields.io/badge/Instagram-@thinked-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thinkedforyou)
 
 </div>
 
