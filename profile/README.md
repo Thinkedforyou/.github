@@ -52,6 +52,6 @@ A **Thinked** é uma empresa de tecnologia especializada em desenvolver soluçõ
 
 <div align="center">
 
-**Feito com 💜 pela equipe Thinked**
+<sub>By Team <a href="https://thinked.com.br">Thinked</a></sub>
 
 </div>
